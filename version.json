@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.4",
-    "changelog":  "Criei uma identidade local da máquina (setada no registro/login).",
-    "sha256":  "ccb16412d9b5e757907ee9d1c9b3b68edd3c167d0b63d3a7225c79aa0634325d"
+    "version":  "0.2.5",
+    "changelog":  "Nome do cliente na tela Canais (sem "Meu PC"/IP).",
+    "sha256":  "967a0771b408f9f34e867c1e03b695d5c237b115bde8f6692228bb40c5ca5916"
 }
