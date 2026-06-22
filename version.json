@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.5",
-    "changelog":  "Nome do cliente na tela Canais",
-    "sha256":  "967a0771b408f9f34e867c1e03b695d5c237b115bde8f6692228bb40c5ca5916"
+  "version": "0.2.5",
+  "changelog": "Nome do cliente na tela Canais (sem Meu PC e IP).",
+  "sha256": "967a0771b408f9f34e867c1e03b695d5c237b115bde8f6692228bb40c5ca5916"
 }
