@@ -1,5 +1,5 @@
 {
   "version": "0.2.7",
-  "changelog": "Sem congelar se algo travar.",
+  "changelog": "Varios canais enviando ao mesmo tempo e protecao contra travamento de envio.",
   "sha256": "a1df202c19f668a78bc8c2d6f675c18b18a4b698dd9a42df32426fa8e4433957"
 }
