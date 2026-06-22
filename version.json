@@ -1,5 +1,5 @@
 {
-  "version": "0.2.6",
-  "changelog": "agente oculto + auto-start com Windows, rodapé da sidebar",
-  "sha256": "70371a8c1ff110195fcc31cc876d048081e189ac42bff548c9d9956574552440"
+  "version": "0.2.7",
+  "changelog": "Sem congelar se algo travar.",
+  "sha256": "a1df202c19f668a78bc8c2d6f675c18b18a4b698dd9a42df32426fa8e4433957"
 }
