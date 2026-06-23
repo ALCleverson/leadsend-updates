@@ -1,5 +1,5 @@
 {
-  "version": "0.2.7",
-  "changelog": "Varios canais enviando ao mesmo tempo e protecao contra travamento de envio.",
-  "sha256": "a1df202c19f668a78bc8c2d6f675c18b18a4b698dd9a42df32426fa8e4433957"
+  "version": "0.2.8",
+  "changelog": "Layout responsivo de Canais e Campanhas, QR colorido + botão Editar.",
+  "sha256": "52c34b74539a4a02f32fe753044e7d9132011fe7a0be48d59e26aae2814358f3"
 }
