@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
-  "changelog": "Melhorias no envio e Pausa",
-  "sha256": "b683b63a6ca5d16eba0b17062ebe269c079db21d6a94cb020318fa28bf3b1938"
+  "version": "0.4.1",
+  "changelog": "Dialer também por teclado (seta+Enter)",
+  "sha256": "720975769abb48afe18a9fdd8bfafa0f15bd4cbcb8b3148e382da37fc0b36c12"
 }
