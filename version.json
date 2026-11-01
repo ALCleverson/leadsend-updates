@@ -1,6 +1,6 @@
 {
     "version":  "1.9.27",
-    "changelog":  "Atualizacoes assinadas: a partir desta versao o LeadSend.",
+    "changelog":  "Atualizacoes assinadas: a partir desta versao o LeadSend so instala uma atualizacao assinada com a chave do LeadSend. Se alguem publicar uma versao falsa, os servidores recusam, nada e instalado e o painel avisa no sino de Seguranca.",
     "sha256":  "15159896779c65fa128b0b90cd64a9616a7e1594f4a63398d5db0a991d66019e",
     "assinatura":  "gjRG/gNo0wJT+ygeLD15X/JrgvA09zSUgxukycd2xe6cPchFzFw30NT4x+CSSOrsIwA/oRW1HYtj2O0OMqhKDw=="
 }
