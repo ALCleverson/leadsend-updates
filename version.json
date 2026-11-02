@@ -1,6 +1,6 @@
 {
-    "version":  "1.9.27",
-    "changelog":  "Atualizacoes assinadas: a partir desta versao o LeadSend so instala uma atualizacao assinada com a chave do LeadSend. Se alguem publicar uma versao falsa, os servidores recusam, nada e instalado e o painel avisa no sino de Seguranca.",
-    "sha256":  "15159896779c65fa128b0b90cd64a9616a7e1594f4a63398d5db0a991d66019e",
-    "assinatura":  "gjRG/gNo0wJT+ygeLD15X/JrgvA09zSUgxukycd2xe6cPchFzFw30NT4x+CSSOrsIwA/oRW1HYtj2O0OMqhKDw=="
+    "version":  "1.9.28",
+    "changelog":  "Instalador menor: sai o Postgres embarcado e o código do modo banco.",
+    "sha256":  "8ca3f1da78b6973733b2fb4c6ec6d5d9dc7c7490294812618e71892e0bbb7aff",
+    "assinatura":  "8eI7wRemRS8rgDHKXCC+1Z1ZpW8eJJweZFG01Gq3bMAtq6zWODJkJdJUMoVolCs2pdux28a15VW4RAnmwCaHDA=="
 }
