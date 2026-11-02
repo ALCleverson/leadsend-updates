@@ -1,6 +1,6 @@
 {
-    "version":  "1.9.28",
-    "changelog":  "Instalador menor: sai o Postgres embarcado e o código do modo banco.",
-    "sha256":  "8ca3f1da78b6973733b2fb4c6ec6d5d9dc7c7490294812618e71892e0bbb7aff",
-    "assinatura":  "8eI7wRemRS8rgDHKXCC+1Z1ZpW8eJJweZFG01Gq3bMAtq6zWODJkJdJUMoVolCs2pdux28a15VW4RAnmwCaHDA=="
+    "version":  "1.9.29",
+    "changelog":  "Sonda do WhatsApp as 5h que propoe e testa nomes novos; fecha avisos novos; limpeza.",
+    "sha256":  "275f35e3be672eb3bec793f3b0e0716730dae137d1eb7d6698d908dab55fbca7",
+    "assinatura":  "Y1LiK+KKD2SKvXNvuyD78jPyXyEkKpV1YjeSgCz0grKQeqGW2qfva0LZzE4j8zpfWIr7uLo9wXXOV/Uhm844CQ=="
 }
