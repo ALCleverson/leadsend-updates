@@ -1,6 +1,6 @@
 {
-    "version":  "1.9.30",
-    "changelog":  "Sino diz qual janela do WhatsApp atrapalhou; fecha aviso embutido no chat.",
-    "sha256":  "4cb0488a481228e11892e057c33e1d0a6a0accc5709cf269808366cbca6ac7f6",
-    "assinatura":  "HfVtv+sV1hxxniA9JwN1eqDJR3q0YhG6bOCLbsqvpnMJSWkGUO1XWpOjTuKEEJfMKngVE4lBUu7W9Hi5fipyAw=="
+    "version":  "1.9.31",
+    "changelog":  "Sonda de reação: na 5ª falha seguida confere o WhatsApp no canal e corrige antes de pausar.",
+    "sha256":  "d723cc5cf2375a24403764674640b1b25240b3a342caebb1701054ee6d6114b8",
+    "assinatura":  "I3+WlXENPiKfH0VL53RVOZuaCwAPZIsMizc3BMicP3g04EXDJiHPbxHcXd5Kh+j7VSEt6SWjjOGIIyde7L1VDw=="
 }
