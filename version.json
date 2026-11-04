@@ -1,6 +1,6 @@
 {
-    "version":  "1.9.35",
-    "changelog":  "Limpeza de cache e abertura do Chrome no mesmo perfil agora se coordenam; fim da brecha de segundos",
-    "sha256":  "cf3827b97b85ba38b0f62fdfdf367dbf162da9c041d5d5a0bc9b88daac09f00e",
-    "assinatura":  "B+smr0AZQ/zJaCR+q34vVipB0RulDR4JJzTYLNyJyktI+tFMyCy6BTLbgbMqGvILJ3zink/HcpUhhSmFGexLBQ=="
+    "version":  "1.9.36",
+    "changelog":  "Sonda confere pelo numero de diagnostico (caminho do envio); conversa propria vira a reserva",
+    "sha256":  "02de4919d25abead7159585778e60d9db23d510d755fae330f2133af99759bb3",
+    "assinatura":  "jXSD5Iwpa0mCq4fQxx8hA21G9jkpl1zNM+2kn1hRJbxrfhcqKbxyke5vnJWAu/u+AvHXHqkYeu9p1sXYQ2RdDA=="
 }
