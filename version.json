@@ -1,6 +1,6 @@
 {
-    "version":  "1.9.32",
-    "changelog":  "Nova conversa: usa o campo de busca novo do WhatsApp (painel por cima); sem cair no discador.",
-    "sha256":  "cdaca3d54db5fa55431a33f5c9d5a567a7be0087cd618fc1a71f38352762d501",
-    "assinatura":  "7EFespHXpyQ3iPKiaMYFDlbhNxIO4RSiNFtFtVhtxsQoXtRJ3w3o5fBSPfsTJaug1cNlo/DA6pDow0BsBoZdAA=="
+    "version":  "1.9.33",
+    "changelog":  "Sonda confere busca e caixa de mensagem; nao conferiu com motivo no painel; sonda em campanha texto",
+    "sha256":  "0a6849e926bca23c2eccbad15e30e41834e0132ac1fa099896c52eca92b5c657",
+    "assinatura":  "jJafrh7npqwOgcpq53tcpcX9MTTemUKOdcE8lVDpeSakd+W2zDGtVkFQ72a16R3PjtZytGLmMiexgBIvg3aqBQ=="
 }
