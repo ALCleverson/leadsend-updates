@@ -1,6 +1,6 @@
 {
-    "version":  "1.9.34",
-    "changelog":  "Chrome nao abre: 2a tentativa com log detalhado; motivo real no sino e no Diagnostico do servidor",
-    "sha256":  "9f46ab050ec118837227b88ec78aee9223ef6efb466e3cdb1044650c3277ea59",
-    "assinatura":  "fn5NVzRtBnAvQFWlX/EkGFzztnlXfZK99UdjKKFnIcByB9VuOf0Za0sGuiZHvg/7inZYvXeK+f/FM930dnJfBg=="
+    "version":  "1.9.35",
+    "changelog":  "Limpeza de cache e abertura do Chrome no mesmo perfil agora se coordenam; fim da brecha de segundos",
+    "sha256":  "cf3827b97b85ba38b0f62fdfdf367dbf162da9c041d5d5a0bc9b88daac09f00e",
+    "assinatura":  "B+smr0AZQ/zJaCR+q34vVipB0RulDR4JJzTYLNyJyktI+tFMyCy6BTLbgbMqGvILJ3zink/HcpUhhSmFGexLBQ=="
 }
