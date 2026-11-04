@@ -1,6 +1,6 @@
 {
-    "version":  "1.9.33",
-    "changelog":  "Sonda confere busca e caixa de mensagem; nao conferiu com motivo no painel; sonda em campanha texto",
-    "sha256":  "0a6849e926bca23c2eccbad15e30e41834e0132ac1fa099896c52eca92b5c657",
-    "assinatura":  "jJafrh7npqwOgcpq53tcpcX9MTTemUKOdcE8lVDpeSakd+W2zDGtVkFQ72a16R3PjtZytGLmMiexgBIvg3aqBQ=="
+    "version":  "1.9.34",
+    "changelog":  "Chrome nao abre: 2a tentativa com log detalhado; motivo real no sino e no Diagnostico do servidor",
+    "sha256":  "9f46ab050ec118837227b88ec78aee9223ef6efb466e3cdb1044650c3277ea59",
+    "assinatura":  "fn5NVzRtBnAvQFWlX/EkGFzztnlXfZK99UdjKKFnIcByB9VuOf0Za0sGuiZHvg/7inZYvXeK+f/FM930dnJfBg=="
 }
