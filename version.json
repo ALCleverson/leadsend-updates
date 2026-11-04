@@ -1,6 +1,6 @@
 {
-    "version":  "1.9.31",
-    "changelog":  "Sonda de reação: na 5ª falha seguida confere o WhatsApp no canal e corrige antes de pausar.",
-    "sha256":  "d723cc5cf2375a24403764674640b1b25240b3a342caebb1701054ee6d6114b8",
-    "assinatura":  "I3+WlXENPiKfH0VL53RVOZuaCwAPZIsMizc3BMicP3g04EXDJiHPbxHcXd5Kh+j7VSEt6SWjjOGIIyde7L1VDw=="
+    "version":  "1.9.32",
+    "changelog":  "Nova conversa: usa o campo de busca novo do WhatsApp (painel por cima); sem cair no discador.",
+    "sha256":  "cdaca3d54db5fa55431a33f5c9d5a567a7be0087cd618fc1a71f38352762d501",
+    "assinatura":  "7EFespHXpyQ3iPKiaMYFDlbhNxIO4RSiNFtFtVhtxsQoXtRJ3w3o5fBSPfsTJaug1cNlo/DA6pDow0BsBoZdAA=="
 }
