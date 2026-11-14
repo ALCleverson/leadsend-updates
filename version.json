@@ -1,6 +1,6 @@
 {
-    "version":  "1.9.37",
-    "changelog":  "Contato salvo envia: confere dados do contato sem fechar a conversa; sonda diaria com teste real.",
-    "sha256":  "80cfa862d4446a5ab20943198fd7fc4199a6c8010686844e50895a857868eb69",
-    "assinatura":  "LmjLM55ABgL8o5HclOPfDc4a6NVaY0415Yj2910+vs4M16KLQPWEJv+RQd40xxZmbGv2tBbYABlmPJlaHxDrDw=="
+    "version":  "1.9.38",
+    "changelog":  "Discador nao liga mais: Enter so no resultado; microfone e camera negados.",
+    "sha256":  "a238dfb5962ba38eeb54f87e69a02f0050d90a99ddfe9e64b7fc66b6d7430bdd",
+    "assinatura":  "dZMJB9R8SHVmsCRq3/BEhy5gW17s3eEYhkJ1SCmRkc2O1q87oNa3AJXnRp6/w/fERCjpEaFyMjy9duELCAiNCQ=="
 }
